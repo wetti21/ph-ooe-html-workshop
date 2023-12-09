@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+    border-left: 10px darkblue;
+    border-right: 10px darkblue;
+    border-bottom: 10px, darkblue;
+    border-top: 10px, darkblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
+
+h4 {
+    color: orange
+}
